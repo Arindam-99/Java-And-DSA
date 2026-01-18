@@ -23,6 +23,8 @@ public class ArrayListExample {
     list.add(269);
     list.add(269);
     list.add(269);
+    System.out.println("Yes i Find : " + list.contains(265));
+    list.set(0 , 99);
     System.out.println(list);
 
   }
