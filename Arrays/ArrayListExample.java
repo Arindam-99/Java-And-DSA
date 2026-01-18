@@ -32,6 +32,8 @@ public class ArrayListExample {
     // list.remove(2);
     // list.set(0, 99);
     // System.out.println(list);
+
+    
     // Input
     for (int i = 0; i < 5; i++) {
       list.add(sc.nextInt());
