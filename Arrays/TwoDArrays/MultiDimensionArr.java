@@ -1,3 +1,4 @@
+package TwoDArrays;
 import java.util.Scanner;
 
 public class MultiDimensionArr {
