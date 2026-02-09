@@ -15,3 +15,9 @@ public class Fibonacci2 {
     return fibo(n-1) + fibo(n-2);
   }
 }
+
+// Note: 
+// Recursive call 
+// if you are calling a function again and again, you treate it as a separate call in the stack 
+// This is called tail recursion 
+// this is the last function of recursion 
