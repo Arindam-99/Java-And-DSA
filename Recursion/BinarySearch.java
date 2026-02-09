@@ -1,5 +1,3 @@
-package Recursion;
-
 public class BinarySearch {
   static int search(int[] arr, int target, int start, int end) {
     if (start > end) {

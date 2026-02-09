@@ -1,5 +1,3 @@
-package Recursion;
-
 public class Fibonacci2 {
   public static void main(String[] args) {
     int n = 6;

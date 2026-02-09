@@ -1,4 +1,3 @@
-package Recursion;
 public class Fibonacci {
 
     // Recursive Approach

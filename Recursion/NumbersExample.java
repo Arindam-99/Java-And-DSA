@@ -1,4 +1,4 @@
-package Recursion;
+// package Recursion;
 
 public class NumbersExample {
   static void print(int n) {
