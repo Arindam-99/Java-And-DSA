@@ -1,0 +1,1 @@
+Question 1: Pattern printing using for loop (File Name:first_question.java)
