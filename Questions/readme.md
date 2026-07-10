@@ -1,5 +1,5 @@
-Question 1: Pattern printing using for loop (File Name:first_question.java)
-Question 2: # Restaurant Order Billing System
+Question 1: Pattern printing using for loop (File Name:First_question.java)
+Question 2: # Restaurant Order Billing System(File Name:Second_question.java)
 
 Write a Java program for a restaurant billing system.
 
